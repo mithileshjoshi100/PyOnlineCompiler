@@ -23,12 +23,25 @@ To run the project locally, follow these steps:
    git clone git@github.com:mithileshjoshi100/PyOnlineCompiler.git
 
 2. Navigate to the project directory:
-```bash
-# Navigate to the project directory
-cd PyOnlineCompiler
+   ```bash
+   # Navigate to the project directory
+   cd PyOnlineCompiler
 
-# Install the required dependencies
-pip install -r requirements.txt
+   # Install the required dependencies
+   pip install -r requirements.txt
 
-# Start the Flask development server
-python app.py
+   # Start the Flask development server
+   python flask_app.py
+
+
+## Usage
+1. Visit the web page of the Python online compiler.
+2. Write your Python code in the provided text area.
+3. Click the "Run" button to execute the code.
+4. The output of the code will be displayed below the text area.
+
+
+
+## License
+This project is licensed under the MIT License.
+You can copy the above content and save it in a file named `README.md`. This consolidated markdown file includes the installation instructions, usage guidelines, contributing instructions, and license information for your Python online compiler project.
